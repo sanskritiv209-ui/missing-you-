@@ -2,9 +2,7 @@ const messages=[
 "👋 Sunte Ho...",
 "❤️ Are Suno To Sahi...",
 "💌 Ek Baat Batani Thi...",
-"😔 I Miss you Very Badly...",
-"🧸 I Need Tight A Hug...",
-"❤️ And Lasty I love You So Much..."
+
 ];
 
 let current=0;
