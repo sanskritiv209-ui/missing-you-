@@ -3,7 +3,6 @@ const messages=[
 "❤️ Are Suno To Sahi...",
 "💌 Ek Baat Batani Thi...",
 
-];
 
 let current=0;
 
